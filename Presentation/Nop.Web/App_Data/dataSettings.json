@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Server=tcp:pirulito.database.windows.net,1433;Initial Catalog=PirulitoDB;Persist Security Info=False;User ID=vektor_br@hotmail.com@pirulito;Password=Senha170201;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}

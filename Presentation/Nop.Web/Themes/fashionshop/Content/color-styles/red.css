@@ -1,0 +1,242 @@
+﻿.topbar.navbar-default .navbar-nav > li > a:hover, .topbar.navbar-default .navbar-nav > li > a:active, .topbar.navbar-default .navbar-nav > li > a:focus {
+    color: #d280a4 !important;
+}
+.masthead {
+    background: #d280a4;
+}
+a.logo {
+    color: #d280a4;
+}
+.topcart {
+    background: #d280a4;
+}
+.theme-custom .nivo-controlNav a {
+    background: #242424 !important;
+}
+.theme-custom .nivo-controlNav a.active {
+    background: #d280a4 !important;
+}
+.newsletter-email input[type="button"] {
+    background: #d280a4;
+    border: 2px solid #d280a4;
+}
+.newsletter-email input[type="button"]:hover {
+    background: #242424;
+    border: 2px solid #242424;
+}
+.masthead .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background: #D6D6D6;
+    color: #444;
+}
+.mid-content-title h2::after {
+    background: #d280a4;
+}
+.product-selectors .product-viewmode a.selected {
+    color: #d280a4;
+}
+.footer {
+    background: #eee;
+}
+.footer h3::after {
+    background: #d280a4;
+}
+.footer a:hover {
+    color: #d280a4;
+}
+.scrollup {
+    border: 1px solid #d280a4;
+}
+.scrollup:hover {
+    border: 1px solid #333;
+}
+.scrollup i {
+    background: #d280a4;
+}
+.scrollup:hover i {
+    background: #333;
+}
+.breadcrumb a {
+    color: #d280a4;
+}
+.breadcrumb a:hover, .breadcrumb a:active {
+    color: #242424;
+    text-decoration: none;
+}
+.contactInfo i {
+    color: #d280a4;
+}
+.contactInfo li:hover i {
+    color: #d280a4;
+}
+.Addcart {
+    background: #d280a4;
+}
+.product-box-detail-button {
+    background: #6CB4A9;
+}
+.Addcart:hover, .product-box-detail-button:hover {
+    background: #b74175;
+}
+.product-details-page .nav-tabs .nav-item.show .nav-link, .product-details-page .nav-tabs .nav-link.active {
+    border-bottom: 1px solid #d280a4 !important;
+    background: #d280a4;
+    border-radius: 0px;
+    color: #fff !important;
+    border-color: #d282a4;
+}
+/**************************************
+      button class
+    ***************************************/
+
+.btn-default, .buttons .btn-default, a.button, a.btn-default, button.btn-default {
+    color: #fff;
+    background: #d280a4;
+    border: 2px solid #d280a4;
+}
+.btn-default:hover, .buttons .btn-default:hover, a.btn-default:hover, button.btn-default:hover {
+    color: #fff;
+    border: 2px solid #444;
+    background: #444;
+}
+.view-all .btn {
+    border: 2px solid #d280a4;
+    background: #d280a4;
+    margin: 10px 0px 0px 0px;
+    color: #fff;
+}
+.view-all .btn:hover {
+    border: 2px solid #000;
+    background: #242424;
+    color: #fff;
+}
+.btn-primary, .login .btn-default {
+    background-color: #d280a4;
+    border-color: #d280a4;
+}
+.btn-primary:hover, .login .btn-default:hover {
+    background-color: #242424;
+    border-color: #242424;
+    color: #fff;
+}
+.order-summary-content .common-buttons .btn.btn-default, .estimate-shipping-button{
+    color: #F880B4;
+    background: #fff;
+    border: 1px solid #fff;
+    font-weight: 600;
+}
+.order-summary-content .common-buttons .btn.btn-default:hover, .estimate-shipping-button:hover{  
+    color:#F880B4;
+    background: #fff;
+    border: 1px solid #fff;
+}
+.coupon-box .btn-default, .giftcard-box .btn-default, .compare .btn-default {
+    color: #fff;
+    background: #d280a4;
+    border: 2px solid #d280a4;
+}
+.overview-buttons .btn.btn-default {
+    color: #999;
+    background: #fff;
+    border: 1px solid #fff;
+}
+.coupon-box .btn-default:hover, .giftcard-box .btn-default:hover, .compare .btn-default:hover {
+    color: #fff;
+    border: 2px solid #444;
+    background: #444;
+}
+.checkout-buttons .btn-default {
+    border: 2px solid #d280a4; 
+}
+.checkout-buttons .btn-default:hover {
+    border: 2px solid #d280a4;
+    background: #d280a4;
+    color: #fff;
+}
+.add-to-cart-button {
+    background: #d280a4 !important;
+    border: 2px solid #d280a4 !important;
+}
+.add-to-cart-button:hover {
+    background: #242424 !important;
+    border: 2px solid #242424 !important;
+}
+.add-to-wishlist-button {
+    display: block;
+    margin-top: 10px;
+}
+
+.wishlist-btn, .emailCompare-btn {
+    display: inline-block;
+    margin-right: 4px;
+    float: left;
+}
+.wishlist-btn .btn.btn-default, .emailCompare-btn .btn.btn-default {
+    background: #333;
+    border: 2px solid #333;
+    color: #fff;
+}
+.wishlist-btn .btn.btn-default:hover, .emailCompare-btn .btn.btn-default:hover {
+    color: #fff;
+    background: #d280a4;
+    border-color: #d280a4;
+}
+.add-button .btn-default {
+    background: #444;
+    border-color: #444;
+}
+.add-button .btn-default:hover {
+    background: #000;
+    border-color: #000;
+    color: #fff;
+}
+.side-nav h3::before {
+    background: #d280a4;
+}
+.side-nav-block ul li a:hover, .side-nav-block ul li:hover a, .side-nav-block ul li a:active, .side-nav-block ul li a:focus {
+    color: #d280a4;
+}
+.product-list .add-info .new-prices {
+    color: #d280a4;
+}
+.read-more {
+    color: #03aab7;
+}
+.op-number {
+    background: #d280a4;
+}
+/***************************************
+    Checkout page
+    *****************************************/
+.opc .allow .step-title .number {
+    background-color: #d280a4;
+    border: 1px solid #d280a4;
+    color: #fff;
+}
+.opc .step-title .number {
+    background: #c3c3c3;
+    border-color: #c3c3c3;
+    color: #fff;
+}
+.tags > a:hover {
+    background: #d280a4;
+    border: 1px solid #d280a4 !important;
+    color: #fff;
+}
+.entity-body a:hover {
+    color: #d280a4;
+}
+/*******************************
+      Mega Menu
+**********************************/
+.zmb-wrap .zmb-menu > li .sub-menu li li a::after {
+    background: #d280a4;
+}
+.zmb-clone-wrap > .zmb-panels > .zmb-panel .zmb-menu > .menu-item > a:hover, .zmb-clone-wrap > .zmb-panels > .zmb-panel .sub-menu > .menu-item > a:hover {
+    color: #d280a4;
+}
+.zmb-wrap .zmb-menu > li .sub-menu ul > li > a:hover, .zmb-panel .sub-menu > .menu-item > a:hover {
+    color: #d280a4;
+}
+.zmb-wrap .zmb-menu > li .sub-menu li li a:hover, .zmb-panels .sub-menu .zanmenu-content ul > li li a:hover {
+    color: #d280a4;
+}
